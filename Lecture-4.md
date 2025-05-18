@@ -117,6 +117,9 @@ Samuel Pepys bertanya kepada Isaac Newton: dari tiga skenario melempar dadu beri
 
 ### **Distribusi Binomial**
 
+Distribusi binomial menjawab pertanyaan:
+"Berapa besar kemungkinan sebuah kejadian sukses terjadi sebanyak k kali dari n percobaan, jika peluang sukses tiap percobaan adalah p?"
+
 Karena ini adalah percobaan independen dengan dua hasil (muncul angka 6 = sukses, tidak muncul = gagal), kita menggunakan distribusi binomial:
 
 $$
